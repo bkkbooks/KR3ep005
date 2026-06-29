@@ -1,0 +1,154 @@
+canonical_identifier: bkk:krp/KR3ep005/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ep005/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 何澹安醫案
+  identifiers:
+    krp: KR3ep005
+  tags:
+    kr-categories: KR3ep
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep005.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep005_000-jc.yaml, hash: 'sha256:987acb82d6aefbb2dd26bed7f238d9a324eeec9c0652c2a95be86dfa79be7a6f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep005_000-jc.markers.yaml, hash: 'sha256:42a7b84d6efe61d881bfd3b5e6c0037cf8d489cb30b2d801134971c185bff612'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep005_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 936
+  label: 類中
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep005_jc_000-d3.h1s1
+    span:
+    - body
+    - 936
+    - 3001
+  label: 肝風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep005_jc_000-d4.h1s1
+    span:
+    - body
+    - 3001
+    - 3233
+  label: 眩暈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep005_jc_000-d5.h1s1
+    span:
+    - body
+    - 3233
+    - 3410
+  label: 頭痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep005_jc_000-d6.h1s1
+    span:
+    - body
+    - 3410
+    - 5181
+  label: 咳嗽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep005_jc_000-d7.h1s1
+    span:
+    - body
+    - 5181
+    - 7531
+  label: 吐血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep005_jc_000-d8.h1s1
+    span:
+    - body
+    - 7531
+    - 7862
+  label: 失音
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep005_jc_000-d9.h1s1
+    span:
+    - body
+    - 7862
+    - 8274
+  label: 肺痿
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep005_jc_000-d10.h1s1
+    span:
+    - body
+    - 8274
+    - 9529
+  label: 虛勞
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep005_jc_000-d11.h1s1
+    span:
+    - body
+    - 9529
+    - 10078
+  label: 遺精
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep005_jc_000-d12.h1s1
+    span:
+    - body
+    - 10078
+    - 10472
+  label: 淋濁
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep005_jc_000-d13.h1s1
+    span:
+    - body
+    - 10472
+    - 10866
+  label: 尿血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep005_jc_000-d14.h1s1
+    span:
+    - body
+    - 10866
+    - 11090
+  label: 小便閉癃
+  type: section
+  level: 1
+hash: sha256:ec56a7df7d790a76cdbc850607e40cdcb60a5c31fb3ac254d70161df4330e3be
