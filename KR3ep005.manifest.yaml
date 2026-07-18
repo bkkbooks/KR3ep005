@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ep005_000.yaml, hash: 'sha256:c201a95eafc413fb1f9c381d875f4bc48437e21b607c098804d3f6fec875e34e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep005_000.markers.yaml, hash: 'sha256:74adce2e1d0731459bd143456900aa1ba490d33fde0b3330523649d03b79b7c3'}
+  - {seq: 0, role: markers, filename: assets/KR3ep005_000.markers.yaml, hash: 'sha256:70e288b4b07aa3f3aad1c40f38d21c831b0d7243e8f4ec81e5bc3d95816aa65a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -151,7 +151,7 @@ table_of_contents:
   label: 小便閉癃
   type: section
   level: 1
-hash: sha256:20a1f12df86865b64a5c0ea3ea5a828fd8c81641e73ccfd131f954d404a3a37c
+hash: sha256:0ce9803478bbddfe4c5d14031c22399e5e08a301f735bbd628dd452277ab8ba5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
